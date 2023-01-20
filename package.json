@@ -1,0 +1,36 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/inter": "*",
+    "@expo/react-native-action-sheet": "*",
+    "@expo/vector-icons": "^13.0.0",
+    "axios": "*",
+    "dayjs": "*",
+    "expo": "~47.0.12",
+    "expo-constants": "~14.0.2",
+    "expo-font": "~11.0.1",
+    "expo-status-bar": "~1.4.2",
+    "prop-types": "*",
+    "react": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-autogrow-textinput": "*",
+    "react-native-communications": "*",
+    "react-native-dark-mode": "*",
+    "react-native-gifted-chat": "*",
+    "react-native-lightbox": "*",
+    "react-native-paper": "4.9.2",
+    "react-native-parsed-text": "*",
+    "react-native-safe-area-context": "4.4.1",
+    "react-native-typing-animation": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9"
+  },
+  "private": true
+}
